@@ -1,3 +1,2 @@
 # armamission
-Ideat:
-RHS
+Ideat: blyat
